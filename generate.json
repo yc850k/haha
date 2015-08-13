@@ -1,0 +1,8 @@
+{
+    "db_user": "root",
+    "db_password": "hdoperation",
+    "db_address": "yj-test-mysql-slb0:3306",
+    "db_name": "livecloud",
+    "pkg_name": "DBStructs",
+    "tag_label": "json"
+}
