@@ -1,6 +1,7 @@
 
 ## Run ##
     sh bootstrap.sh
+    ./bin/configServer
 
 ## FindList ##
     curl "http://localhost:3000/servers?room_id=1"
